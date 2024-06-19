@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-18T14:17:17.498298",
+            "datePublished": "2024-06-19T07:13:32.828304",
             "hasPart": [
                 {
                     "@id": "amr_gene_detection.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#300bdc03-9fd1-4c8b-8695-6380953af8ae"
+                    "@id": "#2fa49390-f3c3-4604-ba20-04faa0d24574"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#300bdc03-9fd1-4c8b-8695-6380953af8ae",
+            "@id": "#2fa49390-f3c3-4604-ba20-04faa0d24574",
             "@type": "Person",
             "name": "ABRomics"
         },
