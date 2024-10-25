@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-10-11T09:53:59.474921",
+            "datePublished": "2024-10-25T10:14:13.139160",
             "hasPart": [
                 {
                     "@id": "amr_gene_detection.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#62f65fa5-f525-4c44-bea6-6756e4704570"
+                    "@id": "#5edaaf77-d86b-4ef0-88fa-a12c8be189a2"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/amr_gene_detection",
-            "version": "1.1.4"
+            "version": "1.1.5"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#62f65fa5-f525-4c44-bea6-6756e4704570",
+            "@id": "#5edaaf77-d86b-4ef0-88fa-a12c8be189a2",
             "@type": "Person",
             "name": "ABRomics"
         },
