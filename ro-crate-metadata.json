@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-10-25T10:14:13.139160",
+            "datePublished": "2025-09-17T08:39:03.310577",
             "hasPart": [
                 {
                     "@id": "amr_gene_detection.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#5edaaf77-d86b-4ef0-88fa-a12c8be189a2"
+                    "@id": "#316e2f24-0afb-42ae-958b-a6c1dfec972e"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/amr_gene_detection",
-            "version": "1.1.5"
+            "version": "1.1.6"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#5edaaf77-d86b-4ef0-88fa-a12c8be189a2",
+            "@id": "#316e2f24-0afb-42ae-958b-a6c1dfec972e",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -157,7 +157,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.26"
+            "engineVersion": ">=0.75.32"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
